@@ -1,4 +1,2 @@
-Monster
-=======
-
-Code Monster SB code
+# Read Me
+Mark down daily issues
